@@ -35,6 +35,8 @@ Built an automated workflow using Make that:
 4. Email notification via Gmail
 5. Data logging in Google Sheets
 
+<img width="1375" height="633" alt="Flow" src="https://github.com/user-attachments/assets/b1916091-fd7f-4770-bc21-50e6369ce796" />
+
 ---
 
 ## 🚀 Key Features
