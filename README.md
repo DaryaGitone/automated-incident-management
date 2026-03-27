@@ -61,6 +61,9 @@ Built an automated workflow using Make that:
 - Reduced response time to seconds
 - Improved visibility of critical issues
 - Scalable automation system
+- 
+![Make_email](https://github.com/user-attachments/assets/bdf19c98-bdf2-4e91-b26d-3ddca41b291e)
+<img width="1602" height="200" alt="Make1" src="https://github.com/user-attachments/assets/b3f47dae-e3b2-4660-8681-d8bdba8b029c" />
 
 ---
 
